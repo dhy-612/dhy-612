@@ -1,3 +1,5 @@
+![logo](https://github.com/dhy-612/dhy-612/blob/main/7T9364v.gif)
+
 <h1 align="center">Hi 👋, I'm Harsh Yadav</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
