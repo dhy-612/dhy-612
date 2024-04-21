@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Yadav</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-<img align="right" atl="coding" width="400" src="![image](https://github.com/dhy-612/dhy-612/assets/75630809/93868b35-7278-4909-aa85-37fd6eed144d)">
-
 - 🔭 I’m currently working on **Custom Diffusion Model**
 
 - 🌱 I’m currently learning **Deep learning, AI**
